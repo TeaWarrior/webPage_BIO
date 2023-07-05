@@ -1,3 +1,3 @@
 Simple personal webpage.
 <br>
-https://ekkaira.github.io/webpage/
+https://teawarrior.github.io/webPage_BIO
